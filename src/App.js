@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Link} from 'reat-router-dom';
+import {Link,Route} from 'react-router-dom';
 
 import Users from './containers/Users';
 import Pizza from './containers/Pizza';
@@ -27,4 +27,4 @@ class App extends Component {
 
 }
 
-default export App;
+export default App;

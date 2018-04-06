@@ -11,7 +11,7 @@ class Pizza extends Component {
                 <PizzaImage />
             </div>
         );
-
+        
     }
 
 }
